@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 200px;
+}
+
+.header-icon {
+  margin-left: -500px;
+}
+
+.header_logo {
+  width: 100px;
+  height: 100px;
+  margin-left: -100px;
+}
